@@ -12,6 +12,7 @@ Este repositório contém a entrega da atividade de comunicação manual entre c
 ### Como iniciar o projeto
 
 Para rodar a aplicação, abra o terminal na raiz do repositório e execute os comandos em sequência. Eles vão criar a rede, o volume e subir os containers:
+```
 
 1. Criar a rede e o volume
 ```bash
