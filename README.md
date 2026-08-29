@@ -51,6 +51,3 @@ Se você quiser resetar o banco de dados e forçar a leitura do arquivo .sql do 
 docker rm -f container-mysql container-node
 docker volume rm volume-banco
 ```
-```
-
-***
