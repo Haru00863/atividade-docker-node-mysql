@@ -1,5 +1,3 @@
-***
-
 ```markdown
 Este repositório contém a entrega da atividade de comunicação manual entre containers. A aplicação consiste em uma API em Node.js que consulta um banco de dados MySQL, com ambos rodando em containers separados e se comunicando através de uma rede interna do Docker (resolução via DNS interno).
 
